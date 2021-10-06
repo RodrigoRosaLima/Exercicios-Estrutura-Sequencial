@@ -1,8 +1,9 @@
-# 13 - Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal,
-# utilizando as seguintes fórmulas:
-# Para homens: (72.7*h) - 58
-# Para mulheres: (62.1*h) - 44.7
-# O programa pede o sexo, altura e peso de hoje e mostra para a pessoa qual o peso ideal e quanto ela precisa perder ou ganhar.
+'''13 - Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal,
+utilizando as seguintes fórmulas:
+Para homens: (72.7*h) - 58
+Para mulheres: (62.1*h) - 44.7
+O programa pede o sexo, altura e peso de hoje e mostra para a pessoa qual o peso ideal e quanto ela precisa perder ou ganhar.
+'''
 
 print('{:#^30}'.format(' PESO IDEAL '))
 
